@@ -1,5 +1,11 @@
 {
-  "delete": {
-    "bookmarkCount": 6
+  "remember": [
+    { 
+      "id": 1,
+      "bookmarkCount": 6
+    }
+  ],
+  "count": {
+    "bookmarkCount": 5
   }
 }
